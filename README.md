@@ -1,2 +1,2 @@
 # Newc-1
-PATİKA CSS ÖDEVİ 
+https://app.patika.dev/moduller/css/odev1 PATİKA CSS ÖDEVİ 
